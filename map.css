@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+     background: url(map.png) no-repeat center top/cover;
+    height: 661px;
+}
+
+.link{
+    text-align: center;
+    width: 100%;
+}
+
+a{
+    text-align: center;
+    color: black;
+}

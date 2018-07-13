@@ -1,0 +1,144 @@
+body{
+    margin: 0;
+    padding: 0px;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+header{
+    position: fixed;
+    width: 100%;
+    height: 80px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #0B0B1D;
+}
+
+
+
+h1 {
+    font-size: 20pt;
+    color: white;
+    margin: 0;
+    padding-top: 10px;
+}
+
+p{
+    font-size: 10pt;
+    color: white;
+    margin: 0px;
+    padding-top: 7px;
+}
+
+
+.backimg{
+    background: url(fon.png) no-repeat center top/cover;
+    height: 1000px;
+    width: 100%;
+    margin: 0px;
+    padding-top: 0px;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    padding-top: 400px;
+    margin: 0px;
+}
+
+#onas{
+    width: 100%;
+    height: 400px;
+    padding: 0px;
+}
+
+#onas h3{
+    padding-top: 80px;
+    text-align: center;
+    font-size: 24pt;
+}
+
+#onas p{
+    color: black;
+    font-size: 17pt;
+    width: 100%;
+    text-align: center;
+}
+
+#pred{
+    width: 100%;
+    height: 200px;
+    background-color: #F5F5F5;
+    margin-bottom: 100px;
+}
+
+#pred h3{
+    padding-top: 40px;
+    text-align: center;
+    font-size: 24pt;
+}
+
+#pred p{
+    color: black;
+    font-size: 17pt;
+    width: 100%;
+    text-align: center;
+}
+
+#osn{
+    width: 100%;
+    height: 1100px;
+    text-align: center;
+}
+
+#osn p{
+    padding-top: 10px;
+    color: black;
+    font-size: 17pt;
+    width: 100%;
+    text-align: center;
+}
+
+img{
+    padding-top:70px;
+}
+
+#red{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background-color: #F5F5F5;
+}
+
+h3{
+    padding-top: 8px;
+}
+
+footer{
+    text-align: center;
+    width: 100%;
+    height: 80px;
+}
+
+.block{
+    padding:10px;
+}
+
+a{
+    color: black;
+}
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
